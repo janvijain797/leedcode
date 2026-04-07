@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/janvijain797/leedcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -20,6 +21,7 @@
 | [0001-two-sum](https://github.com/janvijain797/leedcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/janvijain797/leedcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/janvijain797/leedcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/janvijain797/leedcode/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/janvijain797/leedcode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/janvijain797/leedcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
