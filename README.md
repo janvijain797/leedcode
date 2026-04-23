@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/janvijain797/leedcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/janvijain797/leedcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/janvijain797/leedcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/janvijain797/leedcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/janvijain797/leedcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/janvijain797/leedcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/janvijain797/leedcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
