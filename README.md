@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/janvijain797/leedcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0015-3sum](https://github.com/janvijain797/leedcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/janvijain797/leedcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/janvijain797/leedcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -71,4 +74,5 @@
 | ------- |
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
