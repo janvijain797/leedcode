@@ -58,6 +58,7 @@
 | [0015-3sum](https://github.com/janvijain797/leedcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/janvijain797/leedcode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/janvijain797/leedcode/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -80,5 +81,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/janvijain797/leedcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janvijain797/leedcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
