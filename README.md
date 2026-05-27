@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/janvijain797/leedcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/janvijain797/leedcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/janvijain797/leedcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
