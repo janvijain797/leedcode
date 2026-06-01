@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvijain797/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/janvijain797/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/janvijain797/leedcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
@@ -67,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/janvijain797/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/janvijain797/leedcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/janvijain797/leedcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/janvijain797/leedcode/tree/master/0016-3sum-closest) |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/janvijain797/leedcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/janvijain797/leedcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
