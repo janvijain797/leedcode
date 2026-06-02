@@ -79,6 +79,7 @@
 | [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/janvijain797/leedcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/janvijain797/leedcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -103,6 +104,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/janvijain797/leedcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janvijain797/leedcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/janvijain797/leedcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
