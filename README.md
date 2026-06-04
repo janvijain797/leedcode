@@ -104,6 +104,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/janvijain797/leedcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/janvijain797/leedcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janvijain797/leedcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janvijain797/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvijain797/leedcode/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/janvijain797/leedcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
