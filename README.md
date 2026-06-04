@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/janvijain797/leedcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvijain797/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/janvijain797/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janvijain797/leedcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -77,6 +78,7 @@
 | [0027-remove-element](https://github.com/janvijain797/leedcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/janvijain797/leedcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/janvijain797/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/janvijain797/leedcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/janvijain797/leedcode/tree/master/0876-middle-of-the-linked-list) |
@@ -104,6 +106,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/janvijain797/leedcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janvijain797/leedcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/janvijain797/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/janvijain797/leedcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
