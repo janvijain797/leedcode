@@ -94,6 +94,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/janvijain797/leedcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -104,6 +105,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/janvijain797/leedcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/janvijain797/leedcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/janvijain797/leedcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janvijain797/leedcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -125,5 +127,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/janvijain797/leedcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/janvijain797/leedcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
