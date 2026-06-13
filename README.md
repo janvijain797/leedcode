@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janvijain797/leedcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
+| [1207-unique-number-of-occurrences](https://github.com/janvijain797/leedcode/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0704-binary-search](https://github.com/janvijain797/leedcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/janvijain797/leedcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/janvijain797/leedcode/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/janvijain797/leedcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
