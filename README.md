@@ -108,6 +108,7 @@
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/janvijain797/leedcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Linked List
 |  |
 | ------- |
