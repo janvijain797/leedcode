@@ -24,6 +24,7 @@
 | [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/janvijain797/leedcode/tree/master/0344-reverse-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/janvijain797/leedcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/janvijain797/leedcode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/janvijain797/leedcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/janvijain797/leedcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
