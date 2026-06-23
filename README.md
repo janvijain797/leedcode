@@ -36,6 +36,7 @@
 | [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/janvijain797/leedcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/janvijain797/leedcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/janvijain797/leedcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/janvijain797/leedcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/janvijain797/leedcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/janvijain797/leedcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/janvijain797/leedcode/tree/master/0011-container-with-most-water) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
 |  |
 | ------- |
@@ -136,6 +140,7 @@
 | [0238-product-of-array-except-self](https://github.com/janvijain797/leedcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/janvijain797/leedcode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/janvijain797/leedcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/janvijain797/leedcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
