@@ -35,6 +35,7 @@
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/janvijain797/leedcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Array
@@ -61,6 +62,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/janvijain797/leedcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/janvijain797/leedcode/tree/master/1207-unique-number-of-occurrences) |
+| [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/janvijain797/leedcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/janvijain797/leedcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/janvijain797/leedcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/janvijain797/leedcode/tree/master/0011-container-with-most-water) |
+| [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
 |  |
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvijain797/leedcode/tree/master/0005-longest-palindromic-substring) |
+| [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 ## Recursion
 |  |
 | ------- |
