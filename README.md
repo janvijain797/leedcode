@@ -61,6 +61,7 @@
 | [0704-binary-search](https://github.com/janvijain797/leedcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/janvijain797/leedcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1052-grumpy-bookstore-owner](https://github.com/janvijain797/leedcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/janvijain797/leedcode/tree/master/1207-unique-number-of-occurrences) |
 | [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/janvijain797/leedcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvijain797/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1052-grumpy-bookstore-owner](https://github.com/janvijain797/leedcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/janvijain797/leedcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
