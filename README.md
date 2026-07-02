@@ -50,6 +50,7 @@
 | [0018-4sum](https://github.com/janvijain797/leedcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/janvijain797/leedcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/janvijain797/leedcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janvijain797/leedcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/janvijain797/leedcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -99,6 +100,7 @@
 | [0018-4sum](https://github.com/janvijain797/leedcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/janvijain797/leedcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/janvijain797/leedcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/janvijain797/leedcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janvijain797/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
