@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/janvijain797/leedcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvijain797/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janvijain797/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/janvijain797/leedcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janvijain797/leedcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -31,6 +32,7 @@
 | [0015-3sum](https://github.com/janvijain797/leedcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/janvijain797/leedcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/janvijain797/leedcode/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/janvijain797/leedcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
@@ -55,6 +57,7 @@
 | [0035-search-insert-position](https://github.com/janvijain797/leedcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/janvijain797/leedcode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/janvijain797/leedcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/janvijain797/leedcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/janvijain797/leedcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
@@ -182,5 +185,6 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/janvijain797/leedcode/tree/master/0229-majority-element-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/janvijain797/leedcode/tree/master/1814-count-nice-pairs-in-an-array) |
 <!---LeetCode Topics End-->
