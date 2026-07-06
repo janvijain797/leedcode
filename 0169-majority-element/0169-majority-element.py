@@ -5,8 +5,7 @@ class Solution:
         for i in nums:
             if count == 0 :
                 candidate = i 
-                count =1 
-            elif candidate == i:
+            if candidate == i:
                 count += 1 
             else :
                 count -= 1 
