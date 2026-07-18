@@ -58,6 +58,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janvijain797/leedcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/janvijain797/leedcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/janvijain797/leedcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/janvijain797/leedcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/janvijain797/leedcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/janvijain797/leedcode/tree/master/0229-majority-element-ii) |
@@ -175,6 +176,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/janvijain797/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/janvijain797/leedcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/janvijain797/leedcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 ## Recursion
 |  |
