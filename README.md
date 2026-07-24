@@ -72,6 +72,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/janvijain797/leedcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/janvijain797/leedcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/janvijain797/leedcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/janvijain797/leedcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/janvijain797/leedcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/janvijain797/leedcode/tree/master/1207-unique-number-of-occurrences) |
@@ -194,4 +195,12 @@
 | [0169-majority-element](https://github.com/janvijain797/leedcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/janvijain797/leedcode/tree/master/0229-majority-element-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/janvijain797/leedcode/tree/master/1814-count-nice-pairs-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/janvijain797/leedcode/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/janvijain797/leedcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
