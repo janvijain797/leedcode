@@ -66,6 +66,7 @@
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/janvijain797/leedcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0542-01-matrix](https://github.com/janvijain797/leedcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/janvijain797/leedcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/janvijain797/leedcode/tree/master/0704-binary-search) |
@@ -179,6 +180,7 @@
 | [0005-longest-palindromic-substring](https://github.com/janvijain797/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/janvijain797/leedcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janvijain797/leedcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/janvijain797/leedcode/tree/master/0542-01-matrix) |
 | [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 ## Recursion
 |  |
@@ -199,11 +201,13 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/janvijain797/leedcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/janvijain797/leedcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/janvijain797/leedcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/janvijain797/leedcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/janvijain797/leedcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/janvijain797/leedcode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
