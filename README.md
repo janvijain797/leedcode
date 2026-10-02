@@ -26,6 +26,7 @@
 | [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/janvijain797/leedcode/tree/master/0344-reverse-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janvijain797/leedcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvijain797/leedcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/janvijain797/leedcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
@@ -223,10 +224,12 @@
 ## Stack
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janvijain797/leedcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvijain797/leedcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janvijain797/leedcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvijain797/leedcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/janvijain797/leedcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
