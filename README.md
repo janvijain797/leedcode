@@ -28,6 +28,7 @@
 | [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/janvijain797/leedcode/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/janvijain797/leedcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janvijain797/leedcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvijain797/leedcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/janvijain797/leedcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/janvijain797/leedcode/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/janvijain797/leedcode/tree/master/0678-valid-parenthesis-string) |
 | [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
@@ -189,6 +191,7 @@
 | [0053-maximum-subarray](https://github.com/janvijain797/leedcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janvijain797/leedcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/janvijain797/leedcode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/janvijain797/leedcode/tree/master/0678-valid-parenthesis-string) |
 | [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/janvijain797/leedcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
@@ -229,6 +232,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/janvijain797/leedcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/janvijain797/leedcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janvijain797/leedcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvijain797/leedcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
@@ -236,6 +240,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/janvijain797/leedcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/janvijain797/leedcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/janvijain797/leedcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/janvijain797/leedcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/janvijain797/leedcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/janvijain797/leedcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
