@@ -92,6 +92,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/janvijain797/leedcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/janvijain797/leedcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/janvijain797/leedcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0678-valid-parenthesis-string](https://github.com/janvijain797/leedcode/tree/master/0678-valid-parenthesis-string) |
 | [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/janvijain797/leedcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/janvijain797/leedcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Recursion
 |  |
 | ------- |
