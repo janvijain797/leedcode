@@ -27,6 +27,7 @@
 | [0032-longest-valid-parentheses](https://github.com/janvijain797/leedcode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/janvijain797/leedcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/janvijain797/leedcode/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/janvijain797/leedcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/janvijain797/leedcode/tree/master/0856-score-of-parentheses) |
@@ -218,6 +219,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/janvijain797/leedcode/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/janvijain797/leedcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/janvijain797/leedcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/janvijain797/leedcode/tree/master/0994-rotting-oranges) |
@@ -257,4 +259,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/janvijain797/leedcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/janvijain797/leedcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
