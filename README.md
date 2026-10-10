@@ -51,6 +51,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/janvijain797/leedcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/janvijain797/leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Array
 |  |
@@ -94,6 +95,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/janvijain797/leedcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/janvijain797/leedcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/janvijain797/leedcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/janvijain797/leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/janvijain797/leedcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Binary Search
@@ -109,6 +111,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/janvijain797/leedcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/janvijain797/leedcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/janvijain797/leedcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/janvijain797/leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
@@ -142,6 +145,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/janvijain797/leedcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/janvijain797/leedcode/tree/master/1402-reducing-dishes) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/janvijain797/leedcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/janvijain797/leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
 |  |
@@ -267,4 +271,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/janvijain797/leedcode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/janvijain797/leedcode/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/janvijain797/leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
