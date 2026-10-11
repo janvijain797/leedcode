@@ -277,4 +277,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/janvijain797/leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/janvijain797/leedcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
