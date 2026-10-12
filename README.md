@@ -17,6 +17,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/janvijain797/leedcode/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/janvijain797/leedcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/janvijain797/leedcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/janvijain797/leedcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/janvijain797/leedcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/janvijain797/leedcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/janvijain797/leedcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/janvijain797/leedcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/janvijain797/leedcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/janvijain797/leedcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/janvijain797/leedcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [0268-missing-number](https://github.com/janvijain797/leedcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/janvijain797/leedcode/tree/master/0645-set-mismatch) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/janvijain797/leedcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/janvijain797/leedcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Linked List
 |  |
