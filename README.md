@@ -44,6 +44,7 @@
 | [0015-3sum](https://github.com/janvijain797/leedcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/janvijain797/leedcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/janvijain797/leedcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/janvijain797/leedcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/janvijain797/leedcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/janvijain797/leedcode/tree/master/0242-valid-anagram) |
@@ -71,6 +72,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/janvijain797/leedcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/janvijain797/leedcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janvijain797/leedcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/janvijain797/leedcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/janvijain797/leedcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -136,6 +138,7 @@
 | [0027-remove-element](https://github.com/janvijain797/leedcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/janvijain797/leedcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/janvijain797/leedcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/janvijain797/leedcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/janvijain797/leedcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janvijain797/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/janvijain797/leedcode/tree/master/0287-find-the-duplicate-number) |
